@@ -24,7 +24,7 @@ const SearchBar = ({ onSearch }) => {
   };
 
   const handleGeolocationClick = () => {
-    // This function will implement the Geolocation API call (Stretch Goal!)
+    // This function will implement the Geolocation API call (Stretch Goal)
     alert("Geolocation feature coming soon! (Implement navigator.geolocation.getCurrentPosition() here)");
   };
 
