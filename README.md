@@ -1,7 +1,19 @@
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/l4pTfx2qLsKiRrqcU/giphy.gif" alt="Weather App Animation" />
+</div>
+
+<h1 align="center">⚡ WeatherSnap Dashboard 🌦️</h1>
+
 <p align="center">
-  🌐 <a href="https://muhammadsweathersnap.vercel.app/" target="_blank">Visit the Weather Dashboard</a>
+  <strong>"Where design meets data."</strong><br>
+  A high-performance, responsive weather application providing real-time insights and forecasts globally.
 </p>
 
+<p align="center">
+  <a href="https://muhammadsweathersnap.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-View_Project-blue?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+</p>
 
 <h1 align="center">⚡ React Weather Dashboard 🌦️</h1>
 
