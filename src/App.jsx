@@ -5,7 +5,7 @@ import HourlyForecast from "./components/HourlyForecast";
 import WeeklyForecast from "./components/WeeklyForecast";
 import WeatherSkeleton from "./components/WeatherSkeleton"; 
 
-const OPENWEATHER_API_KEY = "966e43678d4cff040cdcd4eca92975d2"; 
+const OPENWEATHER_API_KEY = import.meta.env.VITE_OPENWEATHER_API_KEY;
 
 const App = () => {
   const [weatherData, setWeatherData] = useState(null);
