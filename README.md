@@ -1,6 +1,7 @@
-<div align="center">
-  <img height="180" src="https://media.giphy.com/media/l4pTfx2qLsKiRrqcU/giphy.gif" alt="Weather App Animation" />
-</div>
+<p align="center">
+  🌐 <a href="https://muhammadsweathersnap.vercel.app/" target="_blank">Visit the Weather Dashboard</a>
+</p>
+
 
 <h1 align="center">⚡ React Weather Dashboard 🌦️</h1>
 
